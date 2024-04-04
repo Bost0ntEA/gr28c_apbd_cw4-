@@ -21,6 +21,7 @@ namespace LegacyApp
         
         public ClientRepository()
         {
+            
         }
 
         /// <summary>
